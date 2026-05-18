@@ -33,3 +33,6 @@ def calcular():
     
   except ValueError:
     print("Erro, por favor insira apenas valores numéricos.") 
+
+if __name__ == "__main__":
+    calcular()
