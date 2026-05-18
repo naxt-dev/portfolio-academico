@@ -32,6 +32,7 @@ def calcular():
     print(f'Resultado: {resultado:.2f}')
     
   except ValueError:
+    # Mensagem de erro
     print("Erro, por favor insira apenas valores numéricos.") 
 
 if __name__ == "__main__":
