@@ -29,7 +29,7 @@ def calcular():
             resultado = "Operação inválida."
 
     # Saída de dados
-    print(f'Resultado: {resultado}')
+    print(f'Resultado: {resultado:.2f}')
     
   except ValueError:
     print("Erro, por favor insira apenas valores numéricos.") 
