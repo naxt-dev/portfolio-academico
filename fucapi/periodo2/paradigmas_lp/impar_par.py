@@ -1,5 +1,5 @@
 """
-REPOSITÓRIO: formacao-software-eng
+REPOSITÓRIO: portfolio-academico
 LOCALIZAÇÃO: fucapi/periodo2/paradigmas_lp/par_ou_impar.py
 CONCEITOS: Operadores Aritméticos (Módulo), Estruturas Condicionais (Match Case)
 
