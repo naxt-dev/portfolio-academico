@@ -12,7 +12,6 @@ A organização segue a estrutura de instituições e períodos letivos para fac
 | :--- | :--- |
 | `fucapi/` | Projetos e atividades da graduação em Engenharia de Software. |
 | `cetam/` | Exercícios do curso técnico focados em programação e backend. |
-| `projetos-pessoais/` | Sistemas e automações desenvolvidos fora do ambiente académico. |
 
 ## 🛠️ Tecnologias e Conceitos Explorados
 * **Linguagens:** Python (3.10+), C, SQL.
