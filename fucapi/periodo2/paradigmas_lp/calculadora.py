@@ -1,5 +1,5 @@
 """
-REPOSITÓRIO: formacao-software-eng
+REPOSITÓRIO: portfolio-academico
 LOCALIZAÇÃO: fucapi/periodo2/paradigmas_lp/calculadora.py
 CONCEITOS: Estruturas Condicionais, Match Case, Operadores Aritméticos
 
