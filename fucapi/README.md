@@ -1,11 +1,11 @@
-# 🎓 Formação Acadêmica - FUCAPI
+# 🎓 Engenharia de Software | FUCAPI
 
-Nesta pasta, organizo todos os projetos, laboratórios e estudos teóricos desenvolvidos durante a graduação em **Engenharia de Software**.
+Repositório central para o armazenamento de projetos, laboratórios e documentação desenvolvidos durante a graduação na **Fundação Centro de Análise, Pesquisa e Inovação Tecnológica**.
 
-### 🏛️ O que você encontrará aqui:
-*   **Projetos de Disciplinas:** Implementações de Cálculo, Estruturas de Dados e Engenharia de Requisitos.
-*   **Arquitetura e Modelagem:** Diagramas de classe, DER (Diagrama Entidade-Relacionamento) e documentação de software.
-*   **Sistemas Embarcados:** Projetos práticos utilizando Arduino e lógica de hardware.
-*   **Trabalhos em Grupo:** Colaborações acadêmicas com foco em metodologias ágeis.
+## 📂 O que está nesta pasta?
+* **Projetos de Disciplinas:** Implementações de Cálculo, Estruturas de Dados e Algoritmos.
+* **Engenharia de Requisitos:** Documentação, diagramas de casos de uso e especificações.
+* **Modelagem de Dados:** Scripts SQL.
 
-> 💡 **Objetivo:** Documentar a evolução técnica e o domínio dos conceitos fundamentais da engenharia.
+> [!IMPORTANT]
+> O foco aqui é a aplicação de conceitos fundamentais da engenharia e o cumprimento das metas académicas.
