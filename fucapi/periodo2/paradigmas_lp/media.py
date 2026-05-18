@@ -12,7 +12,7 @@ ENUNCIADO:
 """
 
 def calcular_media():
-    try:
+    try: # Bloco Try Except para capturar erro
         # Entrada de dados
         n1 = float(input("Digite a primeira nota: ")) # Input para n1
         n2 = float(input("Digite a segunda nota: ")) # Input para n2
