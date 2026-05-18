@@ -26,7 +26,7 @@ def verificar_paridade():
 
     except ValueError:
         # Mensagem de erro
-        print("Erro: Insira valores numéricos.")
+        print("Erro, por favor insira apenas valores numéricos.")
 
 if __name__ == '__main__':
     verificar_paridade()
